@@ -18,4 +18,3 @@ psutil
 langdetect
 MukeshAPI
 google-generativeai
-nexichat
